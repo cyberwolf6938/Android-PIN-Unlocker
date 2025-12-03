@@ -100,7 +100,7 @@ This tool is mainly for **old devices**, **educational demos**, and **lab testin
 ## 🎥 Demo Video
 *([4-Digit-PIN](https://drive.google.com/file/d/1YSimRdjg3kdy9Wn76U0cXvBQEsnFTT8x/view?usp=sharing))*
 
-*([6-Digit-PIN](https://drive.google.com/file/d/1Do9xCyGujeaJZcqiVsGPnGvGqISrSeuF/view?usp=sharing)*
+*([6-Digit-PIN](https://drive.google.com/file/d/1Do9xCyGujeaJZcqiVsGPnGvGqISrSeuF/view?usp=sharing))*
 
 ---
 
