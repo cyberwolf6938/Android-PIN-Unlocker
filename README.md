@@ -98,7 +98,7 @@ This tool is mainly for **old devices**, **educational demos**, and **lab testin
 ---
 
 ## 🎥 Demo Video
-Watch this videos:
+Watch these videos:
 
 *([4-Digit-PIN](https://drive.google.com/file/d/1YSimRdjg3kdy9Wn76U0cXvBQEsnFTT8x/view?usp=sharing))*
 
