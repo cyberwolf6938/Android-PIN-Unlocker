@@ -9,8 +9,8 @@ This project uses **HID-compatible Arduino boards** (like Arduino Pro Micro) to 
 
 ## 📌 Features
 
-- 4-digit PIN brute-force sketch (`4-Digit-PIN.ino`)
-- 6-digit PIN brute-force sketch (`6-digit-pin.ino`)
+- [4-digit PIN brute-force sketch](`4-Digit-PIN.ino`)
+- [6-digit PIN brute-force sketch ](`6-digit-pin.ino`)
 - HID keyboard emulation for automated PIN entry  
 - Works with boards that support **USB HID** (Arduino Pro Micro, Leonardo, Beetle, etc.)
 - Simple setup & easy to customize PIN entry speed
@@ -63,8 +63,8 @@ These boards **cannot emulate a keyboard**, so they *do not* work:
 
 
 3. Open one of the code files:
-- `4-Digit-PIN.ino`  
-- `6-digit-pin.ino`
+- [`4-Digit-PIN.ino`](4-Digit-PIN.ino) 
+- [`6-digit-pin.ino`](6-Digit-PIN.ino)
 
 4. Click **Upload**.
 
